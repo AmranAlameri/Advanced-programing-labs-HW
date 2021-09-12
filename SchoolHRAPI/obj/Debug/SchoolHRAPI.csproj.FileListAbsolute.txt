@@ -1,0 +1,5 @@
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\SchoolHRAPI\bin\Debug\SchoolHRAPI.dll
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\SchoolHRAPI\bin\Debug\SchoolHRAPI.pdb
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\SchoolHRAPI\obj\Debug\SchoolHRAPI.csprojResolveAssemblyReference.cache
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\SchoolHRAPI\obj\Debug\SchoolHRAPI.dll
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\SchoolHRAPI\obj\Debug\SchoolHRAPI.pdb

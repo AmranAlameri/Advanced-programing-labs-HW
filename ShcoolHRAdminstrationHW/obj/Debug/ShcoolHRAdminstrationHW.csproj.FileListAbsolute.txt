@@ -1,0 +1,8 @@
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\bin\Debug\ShcoolHRAdminstrationHW.exe.config
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\obj\Debug\ShcoolHRAdminstrationHW.csprojResolveAssemblyReference.cache
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\bin\Debug\ShcoolHRAdminstrationHW.exe
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\bin\Debug\ShcoolHRAdminstrationHW.pdb
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\obj\Debug\ShcoolHRAdminstrationHW.exe
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\obj\Debug\ShcoolHRAdminstrationHW.pdb
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\bin\Debug\SchoolHRAPI.dll
+c:\users\a silent book\documents\visual studio 2015\Projects\ShcoolHRAdminstrationHW\ShcoolHRAdminstrationHW\bin\Debug\SchoolHRAPI.pdb
